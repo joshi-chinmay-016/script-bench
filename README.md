@@ -5,8 +5,7 @@ Script Bench converts a niche, topic, and target runtime into a short-form video
 ---
 
 ## Overview
-
-Developed for Phase 1 of the Zypit Software Development Internship assignment, Script Bench is a command-line script generator designed to turn raw video ideas into film-ready short-form scripts. It is built as a focused, production-minded engineering pipeline rather than an all-in-one content platform.
+ Script Bench is a command-line script generator designed to turn raw video ideas into film-ready short-form scripts. It is built as a focused, production-minded engineering pipeline rather than an all-in-one content platform.
 
 ---
 
