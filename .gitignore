@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+
+# IDE & Editor files
+.vscode/
+.antigravity/
+.kilo/
+.kilocode/
+.idea/
+*.swp
+*.swo
+
+# Local system wrappers
+powershell.bat

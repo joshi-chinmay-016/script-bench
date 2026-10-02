@@ -1,0 +1,5 @@
+{
+  "hook": "AI tools can write API integration code instantly, but they often hallucinate endpoints or fail to handle edge cases.",
+  "body": "When an LLM generates a fetch request, it doesn't understand your specific rate limits or how the server handles partial failures. If the API returns a subtle 207 status code instead of a 200, the AI-generated error handler might completely ignore it. Without knowing the underlying protocol, you'll waste hours troubleshooting silent data corruption. You need to understand headers, status codes, and payloads to debug when the generated code inevitably drifts from reality.",
+  "cta": "Open your network tab today and inspect one raw API response manually."
+}
